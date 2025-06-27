@@ -78,9 +78,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juhaizk7&show_icons=true&theme=radical" alt="Zuhiar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zuhairkhan13&show_icons=true&theme=radical" alt="Zuhiar's GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juhaizk7&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhairkhan13&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <!-- PROFILE README END -->
