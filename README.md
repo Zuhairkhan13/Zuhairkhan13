@@ -56,9 +56,9 @@
 🗓️ July 2025 – Present  
 Selected for the AI Internship Program at Saylani Mass IT Training, focusing on real-world projects involving Machine Learning, Deep Learning, and Data Science.
 
--🔹 Working on AI model development, data preprocessing, and predictive analytics
--🔹 Hands-on experience with Python, TensorFlow/PyTorch, and data visualization tools
--🔹 Collaborating with a team to solve real-world problems using artificial intelligence
+🔹 Working on AI model development, data preprocessing, and predictive analytics <br>
+🔹 Hands-on experience with Python, TensorFlow/PyTorch, and data visualization tools <br>
+🔹 Collaborating with a team to solve real-world problems using artificial intelligence
 
 Excited to expand my skills and contribute to impactful solutions in AI and data science.
 
