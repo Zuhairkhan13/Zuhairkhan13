@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&width=435&lines=Python+for+Data+Science+%F0%9F%93%88; Machine+Learning+%26+Deep+Learning+Beginner+%F0%9F%A7%90;Exploring+AI-powered+solutions+%F0%9F%94%A5;Keen+Learner+%7C+Data+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&width=435&lines=Python+for+Data+Science+%F0%9F%93%88;Machine+Learning+%26+Deep+Learning+Beginner+%F0%9F%A7%90;Exploring+AI-powered+solutions+%F0%9F%94%A5;Keen+Learner+%7C+Data+Explorer" alt="Typing SVG" />
 </p>
 
 ---
