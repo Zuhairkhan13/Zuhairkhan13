@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&width=435&lines=Python+for+Data+Science+%F0%9F%93%88;Machine+Learning+%26+Deep+Learning+Beginner+%F0%9F%A7%90;Exploring+AI-powered+solutions+%F0%9F%94%A5;Keen+Learner+%7C+Data+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&width=435&lines=Python+for+Data+Science+%F0%9F%93%88; Machine+Learning+%26+Deep+Learning+Beginner+%F0%9F%A7%90;Exploring+AI-powered+solutions+%F0%9F%94%A5;Keen+Learner+%7C+Data+Explorer" alt="Typing SVG" />
 </p>
 
 ---
@@ -52,10 +52,15 @@
 - Worked on real-world data science projects  
 - Hands-on experience with Pandas, NumPy, and visualization
 
-### 🧾 Receptionist – *Lifetime Fitness Gym*  
-🗓️ May 2024 – Present  
-- Managed desk operations, inquiries, and customer service  
-- Handled client records and membership systems
+### 🧾 Ai Engineer – *Saylani Tech*  
+🗓️ July 2025 – Present  
+Selected for the AI Internship Program at Saylani Mass IT Training, focusing on real-world projects involving Machine Learning, Deep Learning, and Data Science.
+
+🔹 Working on AI model development, data preprocessing, and predictive analytics
+🔹 Hands-on experience with Python, TensorFlow/PyTorch, and data visualization tools
+🔹 Collaborating with a team to solve real-world problems using artificial intelligence
+
+Excited to expand my skills and contribute to impactful solutions in AI and data science.
 
 ---
 
